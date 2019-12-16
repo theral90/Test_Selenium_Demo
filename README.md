@@ -11,5 +11,7 @@ Clone the repo, cd to the repo directory then run :
 
 $ pip install -r requirements.txt
 
-$ run tests in terminal and look results in localhost
+$ test kurs-selenium.pl go to test_page and run test_hotel_search.py
+
+$ test seleniumdemo.com go to test_selenium_demo and run all  python file
 
