@@ -1,0 +1,5 @@
+[
+  "login_test.py::TestLogIn::test_log_in_passed",
+  "create_account.py::TestCreateAccount::test_create_account_passed",
+  "update_billing_address.py::TestUpdateBillingAddress::test_update_billing_address"
+]
